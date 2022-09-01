@@ -1,0 +1,38 @@
+.footer {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: left;
+    font-weight: 500;
+}
+
+.star {
+    width: 80%;
+    margin: 0 auto;
+    padding: 90px 0;
+}
+.star-content {
+    display: flex;
+    justify-content: center;
+}
+.star-content_1_text {
+    padding-right: 35px;
+}
+.star-content_1, .star-content_2 , .star-content_3 {
+    width: 33%;
+}
+
+.end {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 25px 0;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.end-span:hover {
+    color: yellow;
+}

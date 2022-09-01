@@ -1,0 +1,28 @@
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 2em 0;
+}
+
+.gap {
+    gap: 1em;
+}
+.nav-list {
+    display: flex;
+}
+
+.nav-item {
+    padding: 0 15px;
+    color: #fceab4;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.nav-login {
+    color: #f3cf57;
+    padding-right: 40px;
+}
